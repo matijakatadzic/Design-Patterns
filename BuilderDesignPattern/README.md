@@ -1,4 +1,5 @@
 **What is a Builder Pattern?**
+
 Builder Design Pattern allows us to separate the construction of a complex object from its representation so that we can use the same construction code to produce different types and representations of an object. It is used to construct a complex object step by step and return the complete object after the final step.
 
 **Pros and Cons of Builder Pattern**
