@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BuilderDesignPattern/BuilderDesignPattern/BuilderDesignPattern/obj
+/BuilderDesignPattern/BuilderDesignPattern/.vs/BuilderDesignPattern/v16
+/.vs
+/BuilderDesignPattern/BuilderDesignPattern/BuilderDesignPattern.DataContract/obj
+/BuilderDesignPattern/BuilderDesignPattern/BuilderDesignPattern.DataContract/bin/Debug/net5.0
+/BuilderDesignPattern/BuilderDesignPattern/BuilderDesignPattern.Business/obj
+/BuilderDesignPattern/BuilderDesignPattern/BuilderDesignPattern.Business/bin/Debug/net5.0
+/BuilderDesignPattern/BuilderDesignPattern/BuilderDesignPattern/bin/Debug/net5.0
+/BuilderDesignPattern/BuilderDesignPattern/.vs/BuilderDesignPattern/config
