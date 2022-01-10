@@ -42,7 +42,7 @@ and divided into three groups.
 10. Composite,
 11. Decorator,
 12. Memento,
-13. **Observer [X]**,
+13. **Observer [X]** [See source ](https://github.com/matijakatadzic/Design-Patterns/tree/master/ObserverDesignPattern),
 14. State,
 15. Strategy,
 16. Singleton,
@@ -51,4 +51,4 @@ and divided into three groups.
 19. Template Method,
 20. Visitor,
 21. Proxy &
-22. **Builder [x]**
+22. **Builder [x]** [See source ](https://github.com/matijakatadzic/Design-Patterns/tree/master/BuilderDesignPattern)
