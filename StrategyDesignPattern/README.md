@@ -1,4 +1,4 @@
-# **What is Observer Design Pattern?**
+# **What is Strategy Design Pattern?**
 
 The strategy pattern (also known as the policy pattern) is a behavioural design pattern that allows us to implement a family of algorithms (strategies) into separate classes and then switch from one algorithm (strategy) to another during runtime. Using this pattern, developers can isolate the code, internal logic, and the dependencies of various algorithms from the rest of the application code which makes the code easy to maintain and easy to scale. This pattern also allows us to alter the behavior of the application at runtime by switching from one algorithm to another algorithm.
 
@@ -13,4 +13,4 @@ The strategy pattern (also known as the policy pattern) is a behavioural design 
 
 # **Summary**
 
-The Observer pattern is useful and can be used in situations where one object has to observe another object and need to receive notifications when the state of another object changes. I hope you have found this post useful. If you have any comments or suggestions, please leave your comments below. Don’t forget to share this tutorial with your friends or community.
+Strategy pattern helps us in creating efficient, more readable, and easy to maintain software. It allows us to create software with reusable and interchangeable components which can be added/replaced dynamically at runtime. I hope you enjoyed this tutorial and the example I use to explain this pattern in a way that is easy to understand for everyone.
