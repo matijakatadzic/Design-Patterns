@@ -44,7 +44,7 @@ and divided into three groups.
 12. Memento,
 13. **Observer [X]** [See source ](https://github.com/matijakatadzic/Design-Patterns/tree/master/ObserverDesignPattern),
 14. State,
-15. Strategy,
+15. **Strategy [X]** [See source ](https://github.com/matijakatadzic/Design-Patterns/tree/master/StrategyDesignPattern),
 16. Singleton,
 17. Facade,
 18. Flyweight,
