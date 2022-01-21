@@ -32,7 +32,7 @@ and divided into three groups.
 
 1. Factory Method,
 2. Abstract Factory,
-3. Adapter,
+3. **Adapter [X]** [See source ](https://github.com/matijakatadzic/Design-Patterns/tree/master/AdapterDesignPattern),
 4. Bridge,
 5. Chain of Responsibility,
 6. Command,
