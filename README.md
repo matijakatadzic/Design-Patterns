@@ -40,7 +40,7 @@ and divided into three groups.
 8. Mediator,
 9. Prototype,
 10. Composite,
-11. Decorator,
+11. **Decorator [X]** [See source ](https://github.com/matijakatadzic/Design-Patterns/tree/master/DecoratorDesignPattern),
 12. Memento,
 13. **Observer [X]** [See source ](https://github.com/matijakatadzic/Design-Patterns/tree/master/ObserverDesignPattern),
 14. State,
